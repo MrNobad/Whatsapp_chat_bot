@@ -8,7 +8,7 @@ Just type:
 * quote - for a random famous quote
 * Chuck Joke - for a random Chuck Norris joke
 
-These can be chained together to give you all 4 at once and as long as the words appear, even in a sentence the bot will give you a random cat/fact/quote/chuck joke.
+These can be chained together to give you all 4 at once and as long as the words appear, even in a sentence, the bot will give you a random cat/fact/quote/chuck joke.
 
 Runs with Twilio, Flask a ngrok using Python.
 
