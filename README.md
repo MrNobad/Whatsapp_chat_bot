@@ -10,6 +10,6 @@ Just type:
 
 These can be chained together to give you all 4 at once and as long as the words appear, even in a sentence, the bot will give you a random cat/fact/quote/chuck joke.
 
-Runs with Twilio, Flask a ngrok using Python.
+Runs with Twilio, Flask and ngrok using Python.
 
 Hope to depoly to a production server in future as this is only available on development server at present.
